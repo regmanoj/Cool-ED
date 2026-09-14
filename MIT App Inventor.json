@@ -1,0 +1,111 @@
+{
+  "name": "MIT App Inventor",
+  "url": "https://appinventor.mit.edu/",
+  "type": "web-based visual programming environment / mobile application development environment",
+  "project": "MIT App Inventor",
+  "developer": {
+    "organization": "Massachusetts Institute of Technology (MIT)",
+    "group": "MIT Center for Mobile Learning",
+    "leadership": ["Hal Abelson"]
+  },
+  "open_source": true,
+  "repository": "https://github.com/mit-cml/appinventor-sources",
+  "license": {
+    "software": {
+      "name": "Apache License 2.0",
+      "spdx": "Apache-2.0",
+      "status": "open source"
+    },
+    "website_and_content": {
+      "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+      "spdx": "CC-BY-SA-4.0"
+    }
+  },
+  "cost": "free",
+  "platform": {
+    "type": "cloud-based web application",
+    "access": "web browser",
+    "supported_mobile_platforms": ["Android", "iOS"]
+  },
+  "programming_model": {
+    "paradigm": "visual block-based programming",
+    "interaction": "programs are constructed by assembling interlocking blocks",
+    "primary_computational_objects": [
+      "mobile application components",
+      "events",
+      "properties",
+      "procedures",
+      "data"
+    ],
+    "development_views": ["Designer", "Blocks Editor"]
+  },
+  "programming_concepts": [
+    "sequencing",
+    "event-driven programming",
+    "conditionals",
+    "iteration",
+    "variables",
+    "procedures",
+    "functions",
+    "lists",
+    "data",
+    "state",
+    "user interface design",
+    "component-based programming",
+    "asynchronous events",
+    "network communication",
+    "sensor programming"
+  ],
+  "features": [
+    "visual application designer",
+    "block-based programming",
+    "live testing",
+    "Android application development",
+    "iOS application development",
+    "mobile sensors",
+    "graphics",
+    "sound",
+    "maps",
+    "internet-connected devices",
+    "AI capabilities",
+    "surveys and charts",
+    "app packaging",
+    "app sharing and remixing",
+    "emulator support",
+    "MIT App Inventor Companion"
+  ],
+  "educational_purpose": [
+    "programming education",
+    "computational thinking",
+    "mobile application development",
+    "software creation",
+    "transition from technology consumption to technology creation"
+  ],
+  "target_users": [
+    "children",
+    "students",
+    "teachers",
+    "beginners",
+    "higher-education learners",
+    "general public"
+  ],
+  "learning_model": "interactive constructionist programming environment",
+  "core_idea": "Learners construct functional mobile applications by visually composing programming blocks and connecting them to interface components, events, data, and device capabilities.",
+  "feedback_loop": "Learners can run and test their application on a connected phone, tablet, Chromebook, or emulator while developing it.",
+  "papert_relevance": "The learner works with a personally meaningful computational artifact—a functioning mobile application—and can iteratively construct, execute, inspect, debug, and modify it. Programming concepts are encountered through the construction of an external artifact rather than being presented solely as abstract syntax.",
+  "object_to_think_with": "A functioning mobile application and its constituent interactive components",
+  "construction_artifacts": [
+    "mobile applications",
+    "games",
+    "interactive tools",
+    "sensor-based applications",
+    "data-driven applications"
+  ],
+  "source_notes": {
+    "official_description": "MIT describes App Inventor as an intuitive visual programming environment for building fully functional apps for smartphones and tablets.",
+    "official_software_status": "MIT explicitly describes App Inventor as an open-source tool.",
+    "official_software_license": "The appinventor-sources repository contains the Apache License 2.0.",
+    "official_content_license": "The MIT App Inventor website states that its work is licensed under CC BY-SA 4.0.",
+    "official_cost": "MIT describes App Inventor as a free web-based platform."
+  }
+}
